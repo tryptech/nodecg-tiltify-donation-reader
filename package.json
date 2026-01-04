@@ -28,7 +28,7 @@
         "name": "1 - Donation Reader",
         "title": "Donation Reader",
         "file": "donation-reader.html",
-        "fullbleed": true,
+        "width": 3,
         "headerColor": "#525F78"
       }
     ]
