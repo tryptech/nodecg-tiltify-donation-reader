@@ -20,9 +20,9 @@
   ],
   "nodecg": {
     "bundleDependencies": {
-      "nodecg-tiltify": "^1.0.0"
+      "nodecg-tiltify": "^0.0.0 || ^1.0.0"
     },
-    "compatibleRange": "^1.1.1",
+    "compatibleRange": "^1.1.1 || ^2.5.3",
     "dashboardPanels": [
       {
         "name": "1 - Donation Reader",
